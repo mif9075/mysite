@@ -4,7 +4,7 @@ from .base import *  # noqa
 DEBUG = False
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'sow6c!al&4omsr_bao7u*by2cs4ep-cx1k+%82ffejmsps!hoc'
+SECRET_KEY = ''
 
 # Add your site's domain name(s) here.
 ALLOWED_HOSTS = ['*']
